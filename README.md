@@ -1,2 +1,2 @@
-# Coursera_Capstone_Battle-_of_Neighborhoods
+# Coursera_Capstone_Battle_of_Neighborhoods
 In this project, the neighborhoods of Burlington (Ontario), the average house price in each neighborhood, and the list of schools for each neighborhood are scraped from https://burlingtonneighbourhoods.com/ using BeautifulSoup library. School performance scores by Fraser Institute for each school are scraped from https://www.compareschoolrankings.org/. The parks, playgrounds, and sports fields of each neighborhood are searched from FourSquare API and shown on a Folium map. The neighborhoods of Burlington are grouped into 4 clusters based on the school performance scores and house prices, using the k_means clustering algorithm.
